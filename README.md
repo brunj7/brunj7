@@ -1,5 +1,5 @@
 
-I am helping researchers to make their work more reproducible and collaborative
+I am helping researchers to make their analytical work more reproducible and collaborative
   
 **My website:** https://brunj7.github.io/
 
