@@ -8,4 +8,4 @@
 - [Course on reproducible anlaytical workflows](https://brunj7.github.io/EDS-214-analytical-workflows/) for the newly launched Master in Environmental Data Science ([MEDS](https://ucsb-meds.github.io/)), UC Santa Barbara
 
 
-**My website** if you want to know more:** https://brunj7.github.io/
+**My website** if you want to know more: https://brunj7.github.io/
