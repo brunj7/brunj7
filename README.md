@@ -10,7 +10,7 @@
 -  [Course on databases and data management](https://ucsb-library-research-data-services.github.io/bren-meds213-spring-2024/) for the Master in Environmental Data Science ([MEDS](https://ucsb-meds.github.io/)), UC Santa Barbara
 
 
-Some R packages 📦 I'm involved with:
+📦 Some R packages I'm involved with:
 
 - [lterdatasampler](https://lter.github.io/lterdatasampler/): Co-led with Dr. [Allison Horst](https://www.allisonhorst.com/) this project aims at developing an R package with 28 datasets from the [LTER network](https://lternet.edu/) to facilitate the teaching of (environmental) data science. [FEEDBACK](https://github.com/lter/lterdatasampler/issues) wanted :)
 
