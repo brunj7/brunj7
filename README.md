@@ -3,22 +3,28 @@
 
 ### 🔭 Some projects I am currently working on:
 
-- Developing a new program to help researchers set up their **R**esearch lab in a **C**ollaborative and **R**eproducible (RCL) way: https://ucsb-library-research-data-services.github.io/reproducible-lab/
+- Design a new program to help researchers set up their **R**esearch lab in a **C**ollaborative and **R**eproducible (RCL) way: https://ucsb-library-research-data-services.github.io/reproducible-lab/
 
-- [Course on databases and data management](https://ucsb-library-research-data-services.github.io/bren-eds213/), where we introduce students to data modeling, data management, SQL, and DuckDB; Master in Environmental Data Science ([MEDS](https://ucsb-meds.github.io/)), UC Santa Barbara
+- Co-develop a Workshop on AI-assisted coding for researchers <https://carpentry.library.ucsb.edu/ai-coding-workshop/>
 
-- [Course on reproducible analytical workflows](https://eds-214.github.io/EDS-214-analytical-workflows/) for the Master in Environmental Data Science ([MEDS](https://ucsb-meds.github.io/)), UC Santa Barbara
+- Teaching database to introduce environmental data scientists to relational data modeling and SQL: <https://github.com/UCSB-Library-Research-Data-Services/ASDN-database>
 
 
 ### 📦 Some R packages I'm involved with:
 
-- [lterdatasampler](https://lter.github.io/lterdatasampler/): Co-led with Dr. [Allison Horst](https://www.allisonhorst.com/) this project aims at developing an R package with 28 datasets from the [LTER network](https://lternet.edu/) to facilitate the teaching of (environmental) data science. [FEEDBACK](https://github.com/lter/lterdatasampler/issues) wanted :)
+- [lterdatasampler](https://doi.org/10.32614/CRAN.package.lterdatasampler): Co-led with Dr. [Allison Horst](https://www.allisonhorst.com/), this project aims at developing an R package with 28 datasets from the [LTER network](https://lternet.edu/) to facilitate the teaching of (environmental) data science. [FEEDBACK](https://github.com/lter/lterdatasampler/issues) wanted :)
 
-- [metajam](https://nceas.github.io/metajam/): easily download and read data **and** metadata from repositories in the DataONE network.
+- [metajam](https://doi.org/10.32614/CRAN.package.metajam) (maintainer): easily download and read data **and** metadata from repositories in the DataONE data repositories federation.
+
+### Check out my latest publications:
+
+- Brun J, Lyon NJ, Chen A, Slette I, De La Rosa G, Caselle JE, et al. [Enabling data‐driven collaborative and reproducible environmental synthesis science.](https://doi.org/10.1111/2041-210X.70036) Methods Ecol Evol. 2025;16: 1061–1074. doi:10.1111/2041-210X.70036
+  
+- Brun J, Janée G, Curty RG. [Ten quick tips for developing a reproducible Shiny application.](https://doi.org/10.1371/journal.pcbi.1013551) PLOS Computational Biology. 2025;21: e1013551. doi:10.1371/journal.pcbi.1013551
 
 
-If you want to know more: 
 
-- **My personal website**: https://brunj7.github.io/
+**Check out my personal website <https://brunj7.github.io/> to learn more!**
+
 
 
