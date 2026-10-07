@@ -3,7 +3,7 @@
 
 ### 🔭 Some projects I am currently working on:
 
-- Design a new program to help researchers set up their **R**esearch lab in a **C**ollaborative and **R**eproducible (RCL) way: https://ucsb-library-research-data-services.github.io/reproducible-lab/
+- Design a new program to help researchers set up their **R**esearch lab in a **C**ollaborative and **R**eproducible way: <https://rds.library.ucsb.edu/reproducible-lab/>
 
 - Co-develop a Workshop on AI-assisted coding for researchers <https://carpentry.library.ucsb.edu/ai-coding-workshop/>
 
