@@ -22,9 +22,9 @@
   
 - Brun J, Janée G, Curty RG. [Ten quick tips for developing a reproducible Shiny application.](https://doi.org/10.1371/journal.pcbi.1013551) PLOS Computational Biology. 2025;21: e1013551. doi:10.1371/journal.pcbi.1013551
 
+<br>
 
-
-**Check out my personal website <https://brunj7.github.io/> to learn more!**
+**Here is my personal website <https://brunj7.github.io/> to learn more!**
 
 
 
